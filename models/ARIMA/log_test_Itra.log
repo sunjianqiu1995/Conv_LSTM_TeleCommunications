@@ -1,0 +1,121 @@
+Grid 0 predict stat Info:
+Best_p:9, Best_q:4
+MSE: 10.702211689, acc: 1.0055815303
+Grid 250 predict stat Info:
+Best_p:9, Best_q:8
+MSE: 9.29051490198, acc: 0.721486019854
+Grid 500 predict stat Info:
+Best_p:5, Best_q:6
+MSE: 2.02795059052, acc: 0.502355629434
+Grid 750 predict stat Info:
+Best_p:5, Best_q:8
+MSE: 193.370242106, acc: 3.43169080655
+Grid 1000 predict stat Info:
+Best_p:5, Best_q:6
+MSE: 2.03525631177, acc: 0.504165372834
+Grid 1250 predict stat Info:
+Best_p:9, Best_q:3
+MSE: 6759.01236618, acc: 33.988743134
+Grid 1500 predict stat Info:
+Best_p:2, Best_q:2
+MSE: 23.4518705917, acc: 6.02414708136
+Grid 1750 predict stat Info:
+Best_p:3, Best_q:5
+MSE: 158.164940426, acc: 4.50803413908
+Grid 2000 predict stat Info:
+Best_p:6, Best_q:2
+MSE: 0.715175037706, acc: 0.397680437052
+Grid 2250 predict stat Info:
+Best_p:9, Best_q:1
+MSE: 24.9040352198, acc: 1.31796954061
+Grid 2500 predict stat Info:
+Best_p:6, Best_q:1
+MSE: 0.665962975875, acc: 0.371964642062
+Grid 2750 predict stat Info:
+Best_p:5, Best_q:6
+MSE: 51.6851921437, acc: 2.71545768107
+Grid 3000 predict stat Info:
+Best_p:9, Best_q:3
+MSE: 0.411700270487, acc: 0.250330676113
+Grid 3250 predict stat Info:
+Best_p:4, Best_q:5
+MSE: 33.5670600216, acc: 1.26798887217
+Grid 3500 predict stat Info:
+Best_p:9, Best_q:3
+MSE: 0.437016272178, acc: 0.270780801576
+Grid 3750 predict stat Info:
+Best_p:6, Best_q:6
+MSE: 776.222741148, acc: 6.90508716383
+Grid 4000 predict stat Info:
+Best_p:9, Best_q:3
+MSE: 0.434744252374, acc: 0.26671219819
+Grid 4250 predict stat Info:
+Best_p:5, Best_q:7
+MSE: 519.096406058, acc: 5.6412604831
+Grid 4500 predict stat Info:
+Best_p:1, Best_q:3
+MSE: 0.536770246042, acc: 0.319747428442
+Grid 4750 predict stat Info:
+Best_p:9, Best_q:3
+MSE: 9478.19850179, acc: 46.6948686636
+Grid 5000 predict stat Info:
+Best_p:7, Best_q:6
+MSE: 7.15752454855, acc: 2.13091512491
+Grid 5250 predict stat Info:
+Best_p:7, Best_q:3
+MSE: 3908.50161407, acc: 20.4550481066
+Grid 5500 predict stat Info:
+Best_p:8, Best_q:6
+MSE: 5.40305701942, acc: 0.528998243096
+Grid 5750 predict stat Info:
+Best_p:9, Best_q:6
+MSE: 324.346422501, acc: 2.90450523196
+Grid 6000 predict stat Info:
+Best_p:9, Best_q:6
+MSE: 226.201598393, acc: 8.87256332874
+Grid 6250 predict stat Info:
+Best_p:7, Best_q:6
+MSE: 1440.26195585, acc: 6.58010317933
+Grid 6500 predict stat Info:
+Best_p:9, Best_q:4
+MSE: 1.81723973286, acc: 0.545580125932
+Grid 6750 predict stat Info:
+Best_p:7, Best_q:1
+MSE: 1352.06498974, acc: 12.6834926681
+Grid 7000 predict stat Info:
+Best_p:9, Best_q:4
+MSE: 9.40558217848, acc: 1.17373809322
+Grid 7250 predict stat Info:
+Best_p:2, Best_q:2
+MSE: 17.3887308058, acc: 3.28636738712
+Grid 7500 predict stat Info:
+Best_p:9, Best_q:4
+MSE: 26.7740995119, acc: 1.84621692688
+Grid 7750 predict stat Info:
+Best_p:9, Best_q:1
+MSE: 343.116885129, acc: 6.84373984859
+Grid 8000 predict stat Info:
+Best_p:8, Best_q:2
+MSE: 11.4855213645, acc: 0.659910246981
+Grid 8250 predict stat Info:
+Best_p:7, Best_q:9
+MSE: 236.497830576, acc: 5.63912183505
+Grid 8500 predict stat Info:
+Best_p:9, Best_q:6
+MSE: 19.4086406023, acc: 1.28431560459
+Grid 8750 predict stat Info:
+Best_p:5, Best_q:8
+MSE: 723.610748183, acc: 8.59597993298
+Grid 9000 predict stat Info:
+Best_p:6, Best_q:6
+MSE: 250.998206949, acc: 7.72902675334
+Grid 9250 predict stat Info:
+Best_p:0, Best_q:3
+MSE: 1039.44337109, acc: 10.5949981467
+Grid 9500 predict stat Info:
+Best_p:3, Best_q:5
+MSE: 87.5436203047, acc: 3.96937080232
+Grid 9750 predict stat Info:
+Best_p:4, Best_q:8
+MSE: 141.335371769, acc: 2.34751666117
+MSE_mean: 705.442341714, acc_mean: 5.64443901372
