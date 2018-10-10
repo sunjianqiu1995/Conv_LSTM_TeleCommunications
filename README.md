@@ -33,7 +33,7 @@ Simply plot all of the data in all of the situation. For instance,
 
 ![1_5features](https://i.imgur.com/xSe4nS5.png)
 
-4. Call Out* data, record every 75 grids, and gather all of the pictures in one pdf file:
+4. The *Call_Out* data, record every 75 grids, and gather all of the pictures in one pdf file:
 
 ![CallOut_Every75Grids](https://i.imgur.com/LsO7uxr.jpg)
 
@@ -61,7 +61,34 @@ In grid 0, Rolling Mean & Stad Deviation for *Call In* data:
 ## Models
 I use four models: **SVR**, **ARIMA**, **LSTM**, and **Convolutional LSTM** models to predict the future trendency of telecommunication data. 
 
-### Conv_LSTM
+### SVR 
+
+Support Vector Regression
+
+![Support Vector Regression](https://i.imgur.com/QxiYthb.png)
+
+
+The results is not very well(Using two weeks' data to predict two day):
+
+![SVR_CallOut](https://i.imgur.com/lS3sKql.png)
+
+
+All of the results are stored in `./models/SVR/log_test_svr_*.log`, all of the trained models are saved in `./models/SVR/svr_train_model_store`, and all of the predicted pictures are saved in `./models/SVR/svr_predict_figure_save`.
+
+### ARIMA
+
+The result is better than any other models(for instance, SMS in, Grid 0):
+
+![ARIMA_fig_Sin_grid0](https://i.imgur.com/LPGLmCq.png)
+
+You can find all of the result logs, pictures, and trained models in `./models/ARIMA`. The structures are the same with **SVR**.
+
+### LSTM2.0
+
+![lstm_fig_Cin_grid0](https://i.imgur.com/dvRSFCX.png)
+
+
+### Conv_LSTM3.2
 
 The conv_LSTM architecture is proposed in this article: [Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](https://arxiv.org/pdf/1506.04214.pdf). In this github project, there is also an implementation of conv_LSTM in tensorflow. 
 
@@ -74,3 +101,5 @@ All I really did was take the old lstm implementation and replace the fully conn
 3. How well does it work!
 
 Like LSTM, the predicted results are not as well as ARIMA.
+
+![convlstm_fig_Cin_grid0](https://i.imgur.com/iV5JNv9.png)
